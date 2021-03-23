@@ -1,1 +1,1 @@
-a text into my newfile
+a text into my newfileadding last line to my file
