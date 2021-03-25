@@ -1,1 +1,1 @@
-adding new text to newFile.txt
+adding new text to newfile.txt in branchTwo
