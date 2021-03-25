@@ -1,4 +1,1 @@
-a text into my newfile
-adding last line to my file
-adding new line in new file in new branch
-
+adding new text to newFile.txt
