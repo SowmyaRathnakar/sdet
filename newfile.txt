@@ -1,2 +1,4 @@
 adding new text to newFile.txt
 /n appending text line to file
+adding new text to newfile.txt in branchTwo
+
